@@ -1,0 +1,16 @@
+**/build*/
+**/devel/
+**/cmake-build-debug/
+*.obj
+*.o
+*.pyc
+*.swp
+**/build_isolated/
+**/devel_isolated/
+.DS_Store
+
+**/*.pro.user*
+*.pdf
+*.vscode
+
+*.mp4
